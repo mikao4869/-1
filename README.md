@@ -1,2 +1,2 @@
-Tish is an H1
+THIS is an H1
 =============
